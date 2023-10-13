@@ -21,7 +21,7 @@
    python app.py
    ```
 
-2. The application will start running on [local host](http://localhost:5000). Follow this link in your browser.
+2. The application will start running on [local host](http://localhost:9000). Follow this link in your browser.
 
 
 ### Usage Docker Image
